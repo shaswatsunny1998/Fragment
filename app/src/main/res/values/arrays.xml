@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="family_name">
+        <item>Soni</item>
+        <item>Amit</item>
+        <item>Sunny</item>
+        <item>Jai</item>
+    </string-array>
+    <string-array name="description">
+        <item>Mummy</item>
+        <item>Papa</item>
+        <item>Me</item>
+        <item>Brother</item>
+    </string-array>
+</resources>
